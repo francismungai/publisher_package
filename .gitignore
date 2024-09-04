@@ -1,0 +1,10 @@
+src/publisher_code.bak
+
+# Anything that ends in a tilde.
+*~ 
+
+# Anything that begins and ends with a hash. Uses a backslash escape to allow the hash to not be recognized as a comment
+\#*#
+
+# Anything that ends with the extension “.bak”.
+*.bak 
